@@ -1,0 +1,6 @@
+flask
+PyCrypto
+py2neo
+nose
+mock
+PyHamcrest
